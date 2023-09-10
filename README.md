@@ -1,2 +1,2 @@
 # Assignmet_2
- This second assignmet of IEC. This is about CSS.
+ This is second assignmet of IEC. This is about CSS.
